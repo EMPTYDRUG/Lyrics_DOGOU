@@ -1,0 +1,72 @@
+* {
+margin: 0px;
+padding: 0px;
+font-size: 13px;
+text-decoration: none;
+font-weight: normal;
+color : #666666;
+}
+body {
+background-color: #000000;
+text-align: center;
+}
+#sotowaku{
+background-color: white;
+background-image: url(kousyou.gif);
+background-repeat: no-repeat;
+background-position: right top;
+text-align : left;
+margin : 10px auto 0 auto;
+padding: 30 0 0 0px;
+width : 900px;
+border : 1px solid #cccccc;
+-moz-box-shadow: 3px 3px 10px #555;
+-webkit-box-shadow: 3px 3px 10px #555;
+}
+h1 {
+font-size: 25px;
+color: #d40015;
+margin : 30 0 0 30px;
+}
+h2 {
+font-size: 18px;
+margin: 30 30 0 30px;
+padding: 0 0 0 10px;
+color: #ffff7d;
+border-bottom-width: 4px;
+border-bottom-style: solid;
+border-bottom-color: #ffffff;
+}
+h3 {
+font-size : 16px;
+color: #ffffff;
+margin : 30 40 0 40px;
+padding : 2 10 2 10px;
+border-left : 10px solid #0099cc;
+}
+p {
+color: #ffffff;
+margin : 0 30 0 30px;
+padding: 10 30 0 50px;
+line-height: 20px;
+}
+a{
+border-bottom-width: 2px;
+border-bottom-style: solid;
+border-bottom-color: #00a9e1;
+}
+a:hover{
+color: #00a9e1;
+}
+li{
+color: #555555;
+margin : 20 20 20 80px;
+}
+#footer{
+background-color: #eefbff;
+text-align : right;
+border-top-width: 1px;
+border-top-style: solid;
+border-top-color: #c8f1ff;
+padding : 0 0 30 0px;
+}
